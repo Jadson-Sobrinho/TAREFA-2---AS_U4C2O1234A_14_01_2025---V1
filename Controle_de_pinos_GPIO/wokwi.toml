@@ -1,5 +1,5 @@
 [wokwi]
 version = 1
-firmware = 'build/tarefa2.uf2'
-elf = 'build/tarefa2.elf'
+firmware = 'build/Controle_de_pinos_GPIO.uf2'
+elf = 'build/Controle_de_pinos_GPIO.elf'
 gdbServerPort=3333
